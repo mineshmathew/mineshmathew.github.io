@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Minesh Mathew"
 title_separator          : "-"
 name                     : "Minesh Mathew"
 description              : "PhD student @CVIT,IIIT-H."
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Minesh Mathew"
   avatar           : "bio-photo.jpg"
-  bio              : "PhD student @CVIT, IIIT-H"
+  bio              : "Sendero Luminoso"
   location         : "Hyderabad,IN"
   email            : minesh.mathew@gmail.com
   uri              :
