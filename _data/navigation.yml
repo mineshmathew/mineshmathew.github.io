@@ -4,11 +4,11 @@ main:
     url: /Publications
 
   - title: "Projects"
-    url: 
+    url: /Projects
   - title: "CV"
-    url: 
+    url: /CV.pdf
 
-  - title: "Mentoring"
-    url: 
+  - title: "Teaching"
+    url: /Teaching
   - title: "Career"
-    url: 
+    url: /Career
