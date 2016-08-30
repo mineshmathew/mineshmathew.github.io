@@ -6,7 +6,7 @@ main:
   - title: "Projects"
     url: /Projects
   - title: "CV"
-    url: /CV.pdf
+    url: /images/CV.pdf
 
   - title: "Teaching"
     url: /Teaching
