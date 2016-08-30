@@ -2,12 +2,10 @@
 main:
   - title: "Publications "
     url: /Publications
-
   - title: "Projects"
     url: /Projects
   - title: "CV"
     url: /images/CV.pdf
-
   - title: "Teaching"
     url: /Teaching
   - title: "Career"
