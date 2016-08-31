@@ -7,7 +7,7 @@ permalink: /Mentoring.html
 author_profile: true
 
 ---
-## undergrad students  whom I co-mentored with Prof. C. V Jawahar) ##
+### undergrad students  whom I co-mentored with Prof. C. V Jawahar) ###
 - [Mohit Jain][1] [2016 - Present]
 	- Scene Text Understanding
 - [Sudeep Raja][2] [ 2014 Summer]
