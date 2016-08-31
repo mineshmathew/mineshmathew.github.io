@@ -37,3 +37,16 @@
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+@font-face {
+  font-family: 'Karumbi';
+  src: url('../fonts/Karumbi.ttf') format('truetype');
+}
+:lang(ml) 	{
+    font-family: Karumbi
+    font-size: 120%;
+    }
+:lang(en)
+{
+font-family: font-awesome
+font-size: 120%
+}
