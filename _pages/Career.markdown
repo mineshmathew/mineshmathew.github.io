@@ -1,5 +1,5 @@
 ---
-title: "Career പണികൾ"
+title: "Career "
 layout: single
 excerpt: "************"
 sitemap: false
