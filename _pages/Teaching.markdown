@@ -1,5 +1,5 @@
 ---
-title: "<i class="fa fa-users" aria-hidden="true"></i>Mentoring"
+title: "Mentoring"
 layout: single
 excerpt: "************"
 sitemap: false
