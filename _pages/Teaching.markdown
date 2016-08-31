@@ -17,4 +17,4 @@ author_profile: true
 
 [1]: https://researchweb.iiit.ac.in/~mohit.jain/
 [2]: http://cse.iitkgp.ac.in/~psraja/
-[3]: iitg.academia.edu/SriramBandaru
+[3]: http://iitg.academia.edu/SriramBandaru
