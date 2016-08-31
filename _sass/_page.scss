@@ -45,7 +45,7 @@
 
 .page__lead {
   font-family: $global-font-family;
-  font-size: 65px;
+  font-size: 13px;
 }
 
 .page__content {
@@ -55,7 +55,7 @@
   }
 
   p, li, dl {
-    font-size: 65  px;
+    font-size: 13px;
   }
 
   /* paragraph indents */
@@ -92,11 +92,11 @@
   dd {
     margin-left: 1em;
     font-family: $sans-serif;
-    font-size: 16px;
+    font-size: 13px;
   }
 
   .small {
-    font-size: $type-size-8;
+    font-size: 13px;
   }
 
   /* blockquote citations */
