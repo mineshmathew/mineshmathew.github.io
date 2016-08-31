@@ -6,7 +6,8 @@ sitemap: false
 permalink: /Publications.html
 author_profile: true
 ---
-##List of publications ##
+List of publications 
+=========
 - **Multilingual OCR for Indic Scripts**, *DAS 2016, Santorini, Greece*, Minesh Mathew, Ajeet Kumar Singh, CV Jawahar
 -- [Paper][1]  [Dataset][2]
 
