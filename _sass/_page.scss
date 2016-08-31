@@ -45,18 +45,18 @@
 
 .page__lead {
   font-family: $global-font-family;
-  font-size: 16px;
+  font-size: 45px;
 }
 
 .page__content {
-
+	font-size: 45px
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
   }
 
   p, li, dl {
-    font-size: 16 px;
+    font-size: 45  px;
   }
 
   /* paragraph indents */
