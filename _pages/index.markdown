@@ -1,6 +1,6 @@
 ---
 title: "About"
-layout: single
+layout: splash
 excerpt: "************"
 sitemap: false
 permalink: /index.html
