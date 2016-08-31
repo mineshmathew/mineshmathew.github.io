@@ -8,7 +8,7 @@ author_profile: true
 
 ---
 ### grad and under-grad students (co-mentored with my guide - Prof. C. V Jawahar) ###
-- [Mohit Jain[[1] [2016 - Present]
+- [Mohit Jain][1] [2016 - Present]
 	- Scene Text Understanding
 - [Sudeep Raja][2] [ 2014 Summer]
 	- RNN + CTC on GPU
