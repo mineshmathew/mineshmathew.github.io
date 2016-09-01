@@ -100,6 +100,12 @@
 {% if author.institution %}
         <li><a href="{{ author.institution	 }}"><i class="fa fa-university" aria-hidden="true"></i> IIIT Hyderabad</a></li>
       {% endif %}
+{% if author.filmsilike %}
+        <li><a href="{{ author.filmsilike}}"><i class="fa fa-film" aria-hidden="true"></i>moviesIwatch</a></li>
+      {% endif %}
+{% if author.booksiread %}
+        <li><a href="{{ author.booksiread}}"><i class="fa fa-book" aria-hidden="true"></i> booksIread</a></li>
+      {% endif %}
 
     </ul>
   </div>
