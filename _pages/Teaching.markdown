@@ -9,7 +9,9 @@ author_profile: true
 ---
 - undergrad students  whom I co-mentored with Prof. C. V Jawahar
 	- [Mohit Jain][1] [2016 - Present]
-		- Scene Text Understanding
+		- Unconstrained scene text recognition in a seq2seq framework
+	- [Ajitesh Gupta][4][2015-2016]
+		- Scene Text Detection and Recognition
 	- [Sudeep Raja][2] [ 2014 Summer]
 		- RNN + CTC on GPU
 	- [Sriram Bandaru][3] [2013 Dec ]
@@ -18,3 +20,4 @@ author_profile: true
 [1]: https://researchweb.iiit.ac.in/~mohit.jain/
 [2]: http://cse.iitkgp.ac.in/~psraja/
 [3]: http://iitg.academia.edu/SriramBandaru
+[4]: http://web.iiit.ac.in/~ajitesh.gupta/
