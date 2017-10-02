@@ -12,10 +12,12 @@ author_profile: true
 
 [1]: https://cvit.iiit.ac.in/images/ConferencePapers/2016/MultiLingualOCRforIndicScripts.pdf
 [2]: http://ocr.iiit.ac.in/Hindi100.html
-- **Unconstrained Scene Text and Video Text Recognition for Arabic Script**, *ASAR 2017, Nancy, France*, Mohit Jain, Minesh Mathew, CV Jawahar[projectPage][3]
+- **Unconstrained Scene Text and Video Text Recognition for Arabic Script**, *ASAR 2017, Nancy, France*, Mohit Jain, Minesh Mathew, CV Jawahar
+[projectPage][3]
 [3]: http://cvit.iiit.ac.in/research/projects/cvit-projects/arabic-text-recognition
 
-- **Unconstrained OCR for Urdu using Deep CNN-RNN Hybrid Networks**, *ACPR 2017, Nanjing, China*, Mohit Jain, Minesh Mathew, CV Jawahar [projectPage][4]
+- **Unconstrained OCR for Urdu using Deep CNN-RNN Hybrid Networks**, *ACPR 2017, Nanjing, China*, Mohit Jain, Minesh Mathew, CV Jawahar 
+[projectPage][4]
 [4]: http://cvit.iiit.ac.in/research/projects/cvit-projects/iiit-urdu-ocr
 
 - **Benchmarking Scene Text Recognition in Devanagari, Telugu and Malayalam**, *MOCR,ICDAR 2017, Kyoto, Japan*,  Minesh Mathew, Mohit Jain CV Jawahar
