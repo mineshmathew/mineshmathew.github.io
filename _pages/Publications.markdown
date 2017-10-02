@@ -16,10 +16,12 @@ author_profile: true
 
 - **Unconstrained Scene Text and Video Text Recognition for Arabic Script**, *ASAR 2017, Nancy, France*(Best Paper), Mohit Jain, Minesh Mathew, CV Jawahar
 [<i class="fa fa-paper-plane" aria-hidden="true"></i>][3]
+
 [3]: http://cvit.iiit.ac.in/research/projects/cvit-projects/arabic-text-recognition
 
 - **Unconstrained OCR for Urdu using Deep CNN-RNN Hybrid Networks**, *ACPR 2017, Nanjing, China*, Mohit Jain, Minesh Mathew, CV Jawahar 
 [<i class="fa fa-paper-plane" aria-hidden="true"></i>][4]
+
 [4]: http://cvit.iiit.ac.in/research/projects/cvit-projects/iiit-urdu-ocr
 
 - **Benchmarking Scene Text Recognition in Devanagari, Telugu and Malayalam**, *MOCR,ICDAR 2017, Kyoto, Japan*,  Minesh Mathew, Mohit Jain CV Jawahar
