@@ -25,10 +25,17 @@ author_profile: true
 [4]: http://cvit.iiit.ac.in/research/projects/cvit-projects/iiit-urdu-ocr
 
 - **Benchmarking Scene Text Recognition in Devanagari, Telugu and Malayalam** -  *MOCR, ICDAR 2017, Kyoto, Japan* -  Minesh Mathew, Mohit Jain and CV Jawahar
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>][5]
+[5]: http://cvit.iiit.ac.in/images/ConferencePapers/2017/Benchmarkingtelugu_malayalam.pdf
 
 
 - **An Empirical Study of Effectiveness of Post-processing in Indic Scripts** -  *MOCR, ICDAR 2017, Kyoto, Japan* - Vinitha VS,  Minesh Mathew and  CV Jawahar
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>][6]
+[6]: http://cvit.iiit.ac.in/images/ConferencePapers/2017/Minesh_ICDAR2017_Paper2.pdf
 
+- **Benchmarking Scene Text Recognition in Devanagari, Telugu and Malayalam** -  *NCVPRIPG 2017, Mandi, India* -  Kartik Dutta, Praveen Krishnan, Minesh Mathew and  CV Jawahar
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>][7]
+[7]: http://cvit.iiit.ac.in/images/ConferencePapers/2017/accurate-handwritten-word.pdf
 
 
 
