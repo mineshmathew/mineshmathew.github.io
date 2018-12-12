@@ -41,5 +41,28 @@ author_profile: true
 
 [7]: http://cvit.iiit.ac.in/images/ConferencePapers/2017/accurate-handwritten-word.pdf
 
+- **Improving CNN-RNN Hybrid Networks for Handwriting Recognition** -  *ICFHR 2018, Niagra Falls, USA* -  Kartik Dutta, Praveen Krishnan, Minesh Mathew and  CV Jawahar
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>][8]
+
+[8]: http://cvit.iiit.ac.in/images/ConferencePapers/2018/improving-cnn-rnn.pdf
+
+- **Towards Spotting and Recognition of Handwritten Words in Indic Scripts** -  *ICFHR 2018, Niagra Falls, USA* -  Kartik Dutta, Praveen Krishnan, Minesh Mathew and  CV Jawahar
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>][9] [<i class="fa fa-paper-plane" aria-hidden="true"></i>][92]
+
+[9]: http://cvit.iiit.ac.in/images/ConferencePapers/2018/spotting-recognition-handwritten.pdf
+[92]: http://cvit.iiit.ac.in/research/projects/cvit-projects/indic-hw-data
+
+- **Localizing and Recognizing Text in Lecture Videos** -  *ICFHR 2018, Niagra Falls, USA* -  Kartik Dutta, Minesh Mathew, Praveen Krishnan  and  CV Jawahar
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>][10] [<i class="fa fa-paper-plane" aria-hidden="true"></i>][102]
+
+[10]: http://cvit.iiit.ac.in/images/ConferencePapers/2018/localizing-recognizing-text.pdf
+[102]: http://cvit.iiit.ac.in/research/projects/cvit-projects/lecturevideodb 
+
+- **Offline Handwriting Recognition on Devanagari using a new Benchmark Dataset** -  *DAS 2018, Vienna, Austria* -  Kartik Dutta, Praveen Krishnan, Minesh Mathew and  CV Jawahar
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i>][11] [<i class="fa fa-paper-plane" aria-hidden="true"></i>][112]
+
+[11]: http://cvit.iiit.ac.in/images/ConferencePapers/2018/offline-handwriting-recognition.pdf 
+[112]: http://cvit.iiit.ac.in/research/projects/cvit-projects/indic-hw-data
+
 
 
