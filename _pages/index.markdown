@@ -12,10 +12,11 @@ My research is in the field of Computer Vision and Machine Learning. Specificall
 
 ### Academic Services ###
 - Reviewer for WACV, PR and IEEE TNNLS
-- [2021] Organizer, DocVQA competition, ICDAR 2021
-- [2020] Organizer, DocVQA competition , Text and Documents Workshop , CVPR 2020
-- [2020] Organizer and Competition Chair, Text and Documents Workshop , CVPR 2020
-- [2019] Organizer, Scene Text VQA Competition, ICDAR 2019
+- [2021] Organizer, [Document Visual Question Answering Workshop, ICDAR 2021][9]
+- [2021] Organizer, [DocVQA competition, ICDAR 2021][10]
+- [2020] Organizer, [DocVQA competition , Text and Documents Workshop , CVPR 2020][11]
+- [2020] Organizer and Competition Chair, [Text and Documents Workshop , CVPR 2020][12]
+- [2019] Organizer, [Scene Text VQA Competition, ICDAR 2019][13]
 
 ### Awards/ Achievements ###
 
@@ -32,5 +33,9 @@ My research is in the field of Computer Vision and Machine Learning. Specificall
 [6]: https://cvit.iiit.ac.in/research/projects/cvit-projects/scene-text-understanding
 [7]: http://www.tcs.com/about/tcs_difference/innovation/network/Pages/TCS_Research_Fellowship_Scheme.aspx
 [8]: docvqa.org 
-
+[9]: https://icdar2021.org/workshops/
+[10]: https://icdar2021.org/competitions/docvqa/
+[11]: https://cvpr2020text.wordpress.com/challenge/
+[12]: https://cvpr2020text.wordpress.com/
+[13]: https://rrc.cvc.uab.es/?ch=11
 
