@@ -7,7 +7,9 @@ permalink: /Projects.html
 author_profile: true
 
 ---
-- **Scene Text Understanding [2015 - Present]**
+- **Document Visual Question Answering [2019 - Present]**
+    - This project was concieved as a joint effort between CVIT, IIIT Hyderabad and CVC, UAB Barcelona. The primary focus of the project is to motivate the Documents community to look beyond traditinal document analysis tasks and to strive for  buiding systems with true "Document Understing" capabilities. More details are available at [docvqa.org][7]
+- **Scene Text Understanding [2015 - 2019]**
 	-  CVIT has been working in this space for the last few years and has made significant contributions in scene text recognition prior to the deep learning wave. [IIIT5k scene text dataset][1] is one of the most widely used datasets in this field. I have joined this project recently, and I am looking into scene text recognition in an unconstrained manner in a seq2seq framework. More details on our work in this are can be found [here][2]
 
 - **Indian Languages OCR [2013 - Present]**
@@ -25,3 +27,4 @@ author_profile: true
 [4]: http://http://ocr.iiit.ac.in/
 [5]: http://speech.iiit.ac.in/
 [6]: www.daisy.org
+[7]: docvqa.org

@@ -7,8 +7,14 @@ permalink: /Mentoring.html
 author_profile: true
 
 ---
-- undergrad students  whom I co-mentored with Prof. C. V Jawahar
-	- [Mohit Jain][1] [2016 - Present]
+- undergrad/MS students  whom I co-mentored with Prof. C. V Jawahar
+    - Viraj Bagal and Yash Khare [2020]
+        - Medical VQA
+    - [Sangeeth Reddy][6] [2018 - Present]
+        - Road Text - Recognition of text on roads and its application to navigation/ autonomous driving
+    - [Kartik Dutta][5] [2016 -2018]
+        - Handwritten text Recognition
+	- [Mohit Jain][1] [2016 - 2018]
 		- Unconstrained scene text recognition in a seq2seq framework
 	- [Ajitesh Gupta][4] [2015-2016]
 		- Scene Text Detection and Recognition
@@ -21,3 +27,5 @@ author_profile: true
 [2]: http://cse.iitkgp.ac.in/~psraja/
 [3]: http://iitg.academia.edu/SriramBandaru
 [4]: http://web.iiit.ac.in/~ajitesh.gupta/
+[5]: https://cvit.iiit.ac.in/people/ms-by-research/ms-students/kartik-dutta
+[6]: https://in.linkedin.com/in/sangeethreddy
