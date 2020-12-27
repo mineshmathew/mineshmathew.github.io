@@ -6,7 +6,7 @@ sitemap: false
 permalink: /Publications.html
 author_profile: true
 ---
-
+For full list  of publications - [Google Scholar][1023]
 - **Multilingual OCR for Indic Scripts** - *DAS 2016, Santorini, Greece* -  Minesh Mathew, Ajeet Kumar Singh and CV Jawahar
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i>][1]  [<i class="fa fa-cube" aria-hidden="true"></i>][2]
 
@@ -65,4 +65,4 @@ author_profile: true
 [112]: http://cvit.iiit.ac.in/research/projects/cvit-projects/indic-hw-data
 
 
-
+[1023]: https://scholar.google.co.in/citations?user=4qm8XT4AAAAJ&hl=en&oi=ao
