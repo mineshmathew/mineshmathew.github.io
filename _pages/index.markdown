@@ -12,7 +12,7 @@ My research is in the field of Computer Vision and Machine Learning. Specificall
 
 ### Academic Services ###
 - Reviewer for WACV, PR and IEEE TNNLS
-- [2021] Organizer, Infographic VQA Competetition, ICDAR 2021
+- [2021] Organizer, DocVQA competition, ICDAR 2021
 - [2020] Organizer, DocVQA competition , Text and Documents Workshop , CVPR 2020
 - [2020] Organizer and Competition Chair, Text and Documents Workshop , CVPR 2020
 - [2019] Organizer, Scene Text VQA Competition, ICDAR 2019
