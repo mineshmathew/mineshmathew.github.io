@@ -97,6 +97,10 @@
       {% if author.vine %}
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fa fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
+{% if author.googlescholar %}
+        <li><a href="{{ author.googlescholar   }}"><i class="fa fa-graduation-cap" aria-hidden="true"></i> Google Scholar</a></li>
+      {% endif %}
+
 {% if author.institution %}
         <li><a href="{{ author.institution	 }}"><i class="fa fa-university" aria-hidden="true"></i> IIIT Hyderabad</a></li>
       {% endif %}
