@@ -14,12 +14,12 @@ My research is in the field of Computer Vision and Machine Learning. Specificall
 - Reviewer for WACV, PR and IEEE TNNLS
 - [2021] Organizer, [Document Visual Question Answering Workshop, ICDAR 2021][9]
 - [2021] Organizer, [DocVQA competition, ICDAR 2021][10]
-- [2020] Organizer, [DocVQA competition , Text and Documents Workshop , CVPR 2020][11]
+- [2020] Organizer, [DocVQA competition, CVPR 2020][11]
 - [2020] Organizer and Competition Chair, [Text and Documents Workshop , CVPR 2020][12]
 - [2019] Organizer, [Scene Text VQA Competition, ICDAR 2019][13]
 
 ### Awards/ Achievements ###
-
+- [2021] Selected for Doctoral Consortium, WACV 2021
 - [2017] Best Paper;  Int'l Workshop on Arabic Script Analysis and Recognition (ASAR) 
 - [2015] Runner up - Micorosoft Azure ML Hackathon held at IIIT Hyderabad
 - [2014] TCS PhD fellowship
