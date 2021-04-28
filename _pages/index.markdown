@@ -11,7 +11,7 @@ a PhD student under   [Prof. C. V Jawahar][1]  at [IIIT Hyderabad][2]. My PhD is
 My research is in the field of Computer Vision and Machine Learning. Specifically, I look into the problems of [OCR in Indian languages][5],  [Scene text understanding][6] and [Document Visual Question Answering (DocVQA)][8] 
 
 ### Academic Services ###
-- Reviewer for WACV, PR and IEEE TNNLS
+- Reviewer -  WACV 2021, ICDADR 2021, PR, IEEE TNNLS, TPAMI
 - [2021] Organizer, [Document Visual Question Answering Workshop, ICDAR 2021][9]
 - [2021] Organizer, [DocVQA competition, ICDAR 2021][10]
 - [2020] Organizer, [DocVQA competition, CVPR 2020][11]
