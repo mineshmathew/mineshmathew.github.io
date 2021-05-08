@@ -1,0 +1,2 @@
+edit markdowns to edit content of each page
+ to edit social media icons, first change in _config.yml and then _includes/author_profile.html
