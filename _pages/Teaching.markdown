@@ -8,9 +8,13 @@ author_profile: true
 
 ---
 - undergrad/MS students  whom I co-mentored with Prof. C. V Jawahar
+
+    - George Tom [2021 - ]
+        - High level understanding of Videos
+        - VQA over images with text - DocVQA, InfographicVQA etc..
     - Viraj Bagal and Yash Khare [2020]
         - Medical VQA
-    - [Sangeeth Reddy][6] [2018 - Present]
+    - [Sangeeth Reddy][6] [2018 - 2021]
         - Road Text - Recognition of text on roads and its application to navigation/ autonomous driving
     - [Kartik Dutta][5] [2016 -2018]
         - Handwritten text Recognition
