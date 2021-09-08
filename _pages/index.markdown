@@ -20,10 +20,11 @@ My research is in the field of Computer Vision and Machine Learning. Specificall
 - [2019] Organizer, [Scene Text VQA Competition, ICDAR 2019][13]
 
 ### Awards/ Achievements ###
-- [2021] Selected for Doctoral Consortium, WACV 2021
-- [2017] Best Paper;  Int'l Workshop on Arabic Script Analysis and Recognition (ASAR) 
-- [2015] Runner up - Micorosoft Azure ML Hackathon held at IIIT Hyderabad
-- [2014] TCS PhD fellowship
+- [2021] - [Outstanding reviewer-  ICCV 2021][14]
+- [2021] - Selected for Doctoral Consortium, WACV 2021
+- [2017] - Best Paper;  Int'l Workshop on Arabic Script Analysis and Recognition (ASAR) 
+- [2015] - Runner up - Micorosoft Azure ML Hackathon held at IIIT Hyderabad
+- [2014] - TCS PhD fellowship
 
 
 [1]: https://www.iiit.ac.in/~jawahar/
@@ -39,4 +40,5 @@ My research is in the field of Computer Vision and Machine Learning. Specificall
 [11]: https://cvpr2020text.wordpress.com/challenge/
 [12]: https://cvpr2020text.wordpress.com/
 [13]: https://rrc.cvc.uab.es/?ch=11
+[14]: http://iccv2021.thecvf.com/outstanding-reviewers
 
