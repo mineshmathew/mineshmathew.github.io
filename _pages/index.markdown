@@ -25,7 +25,7 @@ My research is in the field of Computer Vision and Machine Learning. Specificall
 - [2021] - Selected for WACV 2021 and ICCV 2021 doctoral consortiums
 - [2017] - Best Paper;  Int'l Workshop on Arabic Script Analysis and Recognition (ASAR) 
 - [2015] - Runner up - Micorosoft Azure ML Hackathon held at IIIT Hyderabad
-- [2014] - TCS PhD fellowship
+- [2015] - TCS PhD fellowship
 
 
 [1]: https://www.iiit.ac.in/~jawahar/
