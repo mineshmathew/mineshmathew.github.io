@@ -11,6 +11,14 @@ a PhD student under   [Prof. C. V Jawahar][1]  at [IIIT Hyderabad][2]. My PhD is
 My research is in the field of Computer Vision and Machine Learning. Specifically, I look into the problems of [OCR in Indian languages][5],  [Scene text understanding][6] and [Document Visual Question Answering (DocVQA)][8] 
 
 
+### <span style="color:red">News /Updates </span>
+
+- [Oct 2021] Attended ICCV 2021 Doctoral Consortium 
+- [Oct 2021] InfographicVQA paper accepted at WACV 2022
+- [Sept 2021] - Presented   our work on QA over handwritten documents (oral) at ICDAR 2021
+- [Sept 2021] - First Edition of DocVQA workshop at ICDAR
+
+
 ### Academic Services ###
 - Reviewer for Conferences -  WACV 2021,2022, ICDAR 2021, ICCV 2021
 - Reviwer for jounrals - Pattern Recognition, IEEE TNNLS, TPAMI, Visual Computer
@@ -20,8 +28,8 @@ My research is in the field of Computer Vision and Machine Learning. Specificall
 - [2020] Organizer and Competition Chair, [Text and Documents Workshop , CVPR 2020][12]
 - [2019] Organizer, [Scene Text VQA Competition, ICDAR 2019][13]
 
-### Awards/ Achievements ###
-- [2021] - [Outstanding reviewer-  ICCV 2021][14]
+### Achievements / Recognitions ###
+- [2021] - [Outstanding reviewer (top 5%)-  ICCV 2021][14] 
 - [2021] - Selected for WACV 2021 and ICCV 2021 doctoral consortiums
 - [2017] - Best Paper;  Int'l Workshop on Arabic Script Analysis and Recognition (ASAR) 
 - [2015] - Runner up - Micorosoft Azure ML Hackathon held at IIIT Hyderabad
