@@ -10,6 +10,11 @@ a PhD student under   [Prof. C. V Jawahar][1]  at [IIIT Hyderabad][2]. My PhD is
 
 My research is in the field of Computer Vision and Machine Learning. Specifically, I look into the problems of [OCR in Indian languages][5],  [Scene text understanding][6] and [Document Visual Question Answering (DocVQA)][8] 
 
+### <span style="color:red"> DocVQA and InfographicVQA downloads </span>
+- docvqa.org is offline following a cyber attack on some servers in UAB.
+DocVQA and InfographicVQA can be downloaded from [challenge page in RRC portal][15]
+
+- Those who want to download BenthamQA and HW-SQuAD datasets please email me
 
 ### <span style="color:red">News /Updates </span>
 
@@ -50,4 +55,4 @@ My research is in the field of Computer Vision and Machine Learning. Specificall
 [12]: https://cvpr2020text.wordpress.com/
 [13]: https://rrc.cvc.uab.es/?ch=11
 [14]: http://iccv2021.thecvf.com/outstanding-reviewers
-
+[15]: https://rrc.cvc.uab.es/?ch=17
