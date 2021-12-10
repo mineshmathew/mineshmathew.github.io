@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Minesh Mathew\nമിനേഷ് മാത്യു "
+title                    : "Minesh Mathew"
 title_separator          : "-"
-name                     : "Minesh Mathew"
+name                     : "Minesh Mathew\nമിനേഷ് മാത്യു "
 description              : "Computer Vision Researcher"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
