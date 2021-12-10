@@ -10,11 +10,6 @@ a PhD student under   [Prof. C. V Jawahar][1]  at [IIIT Hyderabad][2]. My PhD is
 
 My research is in the field of Computer Vision and Machine Learning. Specifically, I look into the problems of [OCR in Indian languages][5],  [Scene text understanding][6] and [Document Visual Question Answering (DocVQA)][8] 
 
-### <span style="color:red"> DocVQA and InfographicVQA downloads </span>
-- docvqa.org is offline following a cyber attack on some servers in UAB.
-DocVQA and InfographicVQA can be downloaded from [challenge page in RRC portal][15]
-
-- Those who want to download BenthamQA and HW-SQuAD datasets please email me
 
 ### <span style="color:red">News /Updates </span>
 
@@ -25,7 +20,7 @@ DocVQA and InfographicVQA can be downloaded from [challenge page in RRC portal][
 
 
 ### Academic Services ###
-- Reviewer for Conferences -  WACV 2021,2022, ICDAR 2021, ICCV 2021
+- Reviewer for Conferences -  WACV 2021,22, ICDAR 2021, ICCV 2021
 - Reviwer for jounrals - Pattern Recognition, IEEE TNNLS, TPAMI, Visual Computer
 - [2021] Organizer, [Document Visual Question Answering Workshop, ICDAR 2021][9]
 - [2021] Organizer, [DocVQA competition, ICDAR 2021][10]
@@ -48,7 +43,7 @@ DocVQA and InfographicVQA can be downloaded from [challenge page in RRC portal][
 [5]: http://ocr.iiit.ac.in/
 [6]: https://cvit.iiit.ac.in/research/projects/cvit-projects/scene-text-understanding
 [7]: http://www.tcs.com/about/tcs_difference/innovation/network/Pages/TCS_Research_Fellowship_Scheme.aspx
-[8]: docvqa.org 
+[8]: https://docvqa.org 
 [9]: https://icdar2021.org/workshops/
 [10]: https://icdar2021.org/competitions/docvqa/
 [11]: https://cvpr2020text.wordpress.com/challenge/
