@@ -1,5 +1,5 @@
 ---
-title: "Datasets / resources"
+title: "Resources"
 layout: single
 excerpt: "************"
 sitemap: false
