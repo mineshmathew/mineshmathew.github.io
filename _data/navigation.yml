@@ -2,7 +2,7 @@
 main:
   - title: "Publications"
     url: /Publications
-  - title: : "Datasets / Resources"
+  - title: : "Resources"
     url: /Resources
   - title: "Projects"
     url: /Projects
