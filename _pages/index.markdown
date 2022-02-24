@@ -20,7 +20,7 @@ My research is in the field of Computer Vision and Machine Learning. Specificall
 
 
 ### Academic Services ###
-- Reviewer for Conferences -  WACV 2021,22, ICDAR 2021, ICCV 2021
+- Reviewer for Conferences - CVPR 2022,  WACV 2021,22, ICDAR 2021, ICCV 2021
 - Reviwer for jounrals - Pattern Recognition, IEEE TNNLS, TPAMI, Visual Computer
 - [2021] Organizer, [Document Visual Question Answering Workshop, ICDAR 2021][9]
 - [2021] Organizer, [DocVQA competition, ICDAR 2021][10]

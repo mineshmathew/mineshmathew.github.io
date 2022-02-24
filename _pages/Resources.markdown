@@ -33,6 +33,16 @@ Here is a list of publicly available datasets that were introduced in  our works
 - [BERT baseline for DocVQA][17]
 - [MMBERT  for Medical VQA][18]
 
+
+### Other resources - Demos, presentations
+
+- [2016]Capture and read - OCR + TTS Android app demo : video1 video2
+- [2016] OCR project at CVIT, summary  : video
+- [2020] Text and Documents in Deep learning Era Workshop - DocVQA challenge presentation
+- [2021] DocVQA presentation at WACV 2021
+- [2021] Asking questions on HW Document collectons - presentation at ICDAR 2021
+- [2021] DocVQA workshop at ICDAR 2021 - All talks and challenge presentations
+
 [1]: http://ocr.iiit.ac.in/Hindi100.html
 [2]: https://iiitaphyd-my.sharepoint.com/:u:/g/personal/minesh_mathew_research_iiit_ac_in/EVGje_elmH5EnGqhIT8Pn7sBwr9IxqVvID6c6VFlHzKV6Q?e=LCzAcH
 [3]: https://ieeexplore.ieee.org/document/7490115
