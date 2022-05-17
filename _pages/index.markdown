@@ -13,10 +13,13 @@ My research is in the field of Computer Vision and Machine Learning. Specificall
 
 ### <span style="color:red">News /Updates </span>
 
+- [May 2022] - Joined as a reserach engineer for MeitY , Gov. of India project on Indian language OCR at IIIT Hyderabad
+- [May 2022] - Our work comparing different CTC based architectures for Indian languages OCR, now available in arXiv - [Link][16]
+- [March 2022] - Our paper titled "Read while you Drive - Multilingual Text Tracking on the Road" accepted to DAS 2022
 - [Oct 2021] Attended ICCV 2021 Doctoral Consortium 
 - [Oct 2021] InfographicVQA paper accepted at WACV 2022
 - [Sept 2021] - Presented   our work on QA over handwritten documents (oral) at ICDAR 2021
-- [Sept 2021] - First Edition of DocVQA workshop at ICDAR
+- [Sept 2021] - Organized first Edition of DocVQA workshop at ICDAR
 
 
 ### Academic Services ###
@@ -51,3 +54,4 @@ My research is in the field of Computer Vision and Machine Learning. Specificall
 [13]: https://rrc.cvc.uab.es/?ch=11
 [14]: http://iccv2021.thecvf.com/outstanding-reviewers
 [15]: https://rrc.cvc.uab.es/?ch=17
+[16]: https://arxiv.org/abs/2205.06740
