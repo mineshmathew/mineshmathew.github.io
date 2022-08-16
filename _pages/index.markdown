@@ -13,7 +13,6 @@ My research is in the field of Computer Vision and Machine Learning. Specificall
 
 ### <span style="color:red">News /Updates </span>
 
-- [May 2022] - Joined as a reserach engineer for MeitY , Gov. of India project on Indian language OCR at IIIT Hyderabad
 - [May 2022] - Our work comparing different CTC based architectures for Indian languages OCR, now available in arXiv - [Link][16]
 - [March 2022] - Our paper titled "Read while you Drive - Multilingual Text Tracking on the Road" accepted to DAS 2022
 - [Oct 2021] Attended ICCV 2021 Doctoral Consortium 
