@@ -67,8 +67,8 @@ Here is a list of publicly available datasets that were introduced in  our works
 [19]: https://youtu.be/iW2S4sgxqRk
 [20]: https://youtu.be/hjckqjwtcqw
 [21]: https://youtu.be/4OIL3Ec3zqU
-[22]: 
+[22]: mineshmathew.github.io
 [23]: https://youtu.be/0WBZEemd1q4
-[24]:
+[24]: mineshmathew.github.io
 [25]: https://sites.google.com/view/docvqaworkshop2021/program
-[26]:
+[26]: mineshmathew.github.io
