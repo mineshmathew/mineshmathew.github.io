@@ -6,7 +6,7 @@ sitemap: false
 permalink: /index.html
 author_profile: true
 ---
-a PhD student under   [Prof. C. V Jawahar][1]  at [IIIT Hyderabad][2]. My PhD is partly funded by TCS through the [TCS Research fellowship Scheme][7] 2016. I joined the Phd Program in 2015 after completing MS by Research [2013-2015] in Computer Science under Prof. Jawahar's guidance. Prior to joining IIIT Hyderabad, I had obtained my undergraduate degree in Btech Computer Science Engineering from [NIT Warangal][3] [2005-2009] and worked with [S&P Global Market Intelligence][4] as a Business Analyst .
+a PhD  student under   [Prof. C. V Jawahar][1]  at [IIIT Hyderabad][2]. My PhD is partly funded by TCS through the [TCS Research fellowship Scheme][7] 2016. Prior to joining IIIT Hyderabad, I had obtained my undergraduate degree in Btech Computer Science Engineering from [NIT Warangal][3] [2005-2009] and worked with [S&P Global Market Intelligence][4] as a Business Analyst .
 
 My research is in the field of Computer Vision and Machine Learning. Specifically, I look into the problems of [OCR in Indian languages][5],  [Scene text understanding][6] and [Document Visual Question Answering (DocVQA)][8] 
 
