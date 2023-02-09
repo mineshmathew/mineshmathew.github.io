@@ -18,7 +18,7 @@ My research is in the field of Computer Vision and Machine Learning. Specificall
     - ICDAR 2023 Competition on Text-based Video Question Answering on News Videos
 - [Sept 22] - Soumya's work on VQA on accepted to WACV 2023
 - [May 2022] - Our work comparing different CTC based architectures for Indian languages OCR, now available in arXiv - [Link][16]
-- [March 2022] - Our paper titled "Read while you Drive - Multilingual Text Tracking on the Road" accepted to DAS 2022
+- [March 2022] -  Our paper  "Read while you Drive - Multilingual Text Tracking on the Road" accepted to DAS 2022, Congrats Sergi and George
 - [Oct 2021] Attended ICCV 2021 Doctoral Consortium 
 - [Oct 2021] InfographicVQA paper accepted at WACV 2022
 - [Sept 2021] - Presented   our work on QA over handwritten documents (oral) at ICDAR 2021
@@ -26,8 +26,8 @@ My research is in the field of Computer Vision and Machine Learning. Specificall
 
 
 ### Academic Services ###
-- Reviewer for Conferences -  ACCV 2022, CVPR 2022, ECCV 2022, SIGGRAPH 2022,  ICDAR 2021 and  ICCV 2021
-- Reviwer for jounrals - Pattern Recognition, IEEE TNNLS, TPAMI, Visual Computer, Concurreny n' comput.
+- Reviewer for Conferences -  ACCV 2022, CVPR 2022,23, ECCV 2022, SIGGRAPH 2022,  ICDAR 2021, WACV 2021,22,23 and  ICCV 2021
+- Reviwer for jounrals - Pattern Recognition, IEEE TNNLS, TPAMI, Visual Computer, Concurreny n' comput., IJCV
 - [2021] Organizer, [Document Visual Question Answering Workshop, ICDAR 2021][9]
 - [2021] Organizer, [DocVQA competition, ICDAR 2021][10]
 - [2020] Organizer, [DocVQA competition, CVPR 2020][11]
