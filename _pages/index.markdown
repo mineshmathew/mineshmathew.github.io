@@ -13,7 +13,7 @@ My research is in the field of Computer Vision and Machine Learning. Specificall
 
 ### <span style="color:red">News /Updates </span>
 
-- We are organizing two workshops in ICDAR 2023
+- [Jan 2023] We are organizing two workshops in ICDAR 2023
     - ICDAR 2023 Competition on RoadText Video Text Detection, Tracking and Recognition
     - ICDAR 2023 Competition on Text-based Video Question Answering on News Videos
 - [Sept 22] - Soumya's work on VQA on accepted to WACV 2023
