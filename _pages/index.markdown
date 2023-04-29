@@ -1,19 +1,24 @@
 ---
-title: "I am "
+title: "Minesh Mathew "
 layout: single
 excerpt: "************"
 sitemap: false
 permalink: /index.html
 author_profile: true
 ---
-a PhD  student under   [Prof. C. V Jawahar][1]  at [IIIT Hyderabad][2]. My PhD is partly funded by TCS through the [TCS Research fellowship Scheme][7] 2016. Prior to joining IIIT Hyderabad, I had obtained my undergraduate degree in Btech Computer Science Engineering from [NIT Warangal][3] [2005-2009] and worked with [S&P Global Market Intelligence][4] as a Business Analyst .
+I am a Machine learning scientist at Wadhwani AI. Previously, I was a  MS + PhD  student under   [Prof. C. V Jawahar][1]  at [IIIT Hyderabad][2].  I had obtained my undergraduate degree in Btech Computer Science Engineering from [NIT Warangal][3] [2005-2009].
 
-My research is in the field of Computer Vision and Machine Learning. Specifically, I look into the problems of [OCR in Indian languages][5],  [Scene text understanding][6] and [Document Visual Question Answering (DocVQA)][8] 
+
+
+My PhD research deals with machine-understanding of document images. Specifically, I look into the problems of [OCR in Indian languages][5],  [Scene text understanding][6] and [Document Visual Question Answering (DocVQA)][8] 
 
 
 ### <span style="color:red">News /Updates </span>
 
-- [Jan 2023] We are organizing two workshops in ICDAR 2023
+- [April 2023] - Challenge on Road text detection , tracking and recognition comes to an end
+- [April 2023] - Our paper on VQA for driving videos accepted at ICDAR 2023
+- [April 2023] - I have joined Wadhwani AI as a Machine Learning scientist
+- [Jan 2023] We are organizing two challenges  in ICDAR 2023
     - ICDAR 2023 Competition on RoadText Video Text Detection, Tracking and Recognition
     - ICDAR 2023 Competition on Text-based Video Question Answering on News Videos
 - [Sept 22] - Soumya's work on VQA on accepted to WACV 2023
@@ -26,8 +31,9 @@ My research is in the field of Computer Vision and Machine Learning. Specificall
 
 
 ### Academic Services ###
-- Reviewer for Conferences -  ACCV 2022, CVPR 2022,23, ECCV 2022, SIGGRAPH 2022,  ICDAR 2021, WACV 2021,22,23 and  ICCV 2021
+- Reviewer for Conferences -  ACCV 2022, CVPR 2022,23, ECCV 2022, SIGGRAPH 2022,  ICDAR 2021, WACV 2021,22,23 and  ICCV 2021,23
 - Reviwer for jounrals - Pattern Recognition, IEEE TNNLS, TPAMI, Visual Computer, Concurreny n' comput., IJCV
+- [2023] Organizer, NewsVideo QA and Road-text challenges in ICDAR 2023
 - [2021] Organizer, [Document Visual Question Answering Workshop, ICDAR 2021][9]
 - [2021] Organizer, [DocVQA competition, ICDAR 2021][10]
 - [2020] Organizer, [DocVQA competition, CVPR 2020][11]

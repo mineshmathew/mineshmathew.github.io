@@ -7,6 +7,11 @@ permalink: /Career.html
 author_profile: true
 
 ---
+- **Machine learning scientist at Wadhwani AI [2023- ]**
+    - Application of Document image analysis and Computer vision for problems in the field of public health.
+
+- **Graduate research assistant at CVIT, IIIT Hyderabad [2016-2023]**
+    - Worked wiht Prof. Jawahar on various projects and co-mentored MS research students
 
 -  **Trainee Engineer for Malayalam [OCR project][1] at IIIT Hyderabad  [2013 - 2015]**
 	- I had been working on this project during my post-grad. The project was MCIT, GoI  funded, aimed at developing OCRs for Indian languages. IIIT Hydearbad was the lead institute for developingg Malayalam OCR. The project introduced me to the various aspects involved in building a Document Analsysi System, starting from the data collection and annotation phase to the system deployment. Our team included annotators, developers and engineers who looked into aspects like - layout anaysis, segmentation, recognition and postprocessing. My role was to  improve upon an SVM based recognition module.
