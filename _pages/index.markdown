@@ -6,7 +6,7 @@ sitemap: false
 permalink: /index.html
 author_profile: true
 ---
-I am a Machine learning scientist at Wadhwani AI. Previously, I was a  MS + PhD  student under   [Prof. C. V Jawahar][1]  at [IIIT Hyderabad][2].  I had obtained my undergraduate degree in Btech Computer Science Engineering from [NIT Warangal][3] [2005-2009].
+I am a Machine learning scientist at [Wadhwani AI][17]. Previously, I was a  MS + PhD  student under   [Prof. C. V Jawahar][1]  at [IIIT Hyderabad][2].  I had obtained my undergraduate degree in Btech Computer Science Engineering from [NIT Warangal][3] in 2009.
 
 
 
@@ -15,9 +15,10 @@ My PhD research deals with machine-understanding of document images. Specificall
 
 ### <span style="color:red">News /Updates </span>
 
-- [April 2023] - Challenge on Road text detection , tracking and recognition comes to an end
-- [April 2023] - Our paper on VQA for driving videos accepted at ICDAR 2023
-- [April 2023] - I have joined Wadhwani AI as a Machine Learning scientist
+- [May 2023] -   Received [CVPR 2023 , outstading reviewer award][18]
+- [April 2023] - ICDAR 2023 Challenge on Road text detection , tracking and recognition comes to an end. Results are public now
+- [April 2023] - George's  work  on VQA for driving videos accepted at ICDAR 2023
+- [April 2023] - Joined Wadhwani AI as a Machine Learning scientist
 - [Jan 2023] We are organizing two challenges  in ICDAR 2023
     - ICDAR 2023 Competition on RoadText Video Text Detection, Tracking and Recognition
     - ICDAR 2023 Competition on Text-based Video Question Answering on News Videos
@@ -32,7 +33,7 @@ My PhD research deals with machine-understanding of document images. Specificall
 
 ### Academic Services ###
 - Reviewer for Conferences -  ACCV 2022, CVPR 2022,23, ECCV 2022, SIGGRAPH 2022,  ICDAR 2021, WACV 2021,22,23 and  ICCV 2021,23
-- Reviwer for jounrals - Pattern Recognition, IEEE TNNLS, TPAMI, Visual Computer, Concurreny n' comput., IJCV
+- Reviwer for jounrals - Pattern Recognition, IEEE TNNLS, TPAMI, Visual Computer, Concurreny n' comput., IJCV, TMLR
 - [2023] Organizer, NewsVideo QA and Road-text challenges in ICDAR 2023
 - [2021] Organizer, [Document Visual Question Answering Workshop, ICDAR 2021][9]
 - [2021] Organizer, [DocVQA competition, ICDAR 2021][10]
@@ -64,3 +65,5 @@ My PhD research deals with machine-understanding of document images. Specificall
 [14]: http://iccv2021.thecvf.com/outstanding-reviewers
 [15]: https://rrc.cvc.uab.es/?ch=17
 [16]: https://arxiv.org/abs/2205.06740
+[17]: https://www.wadhwaniai.org/
+[18]: https://cvpr2023.thecvf.com/Conferences/2023/OutstandingReviewers
