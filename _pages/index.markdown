@@ -6,7 +6,7 @@ sitemap: false
 permalink: /index.html
 author_profile: true
 ---
-I am a Machine learning scientist at [Wadhwani AI][17]. Previously, I was a  MS + PhD  student under   [Prof. C. V Jawahar][1]  at [IIIT Hyderabad][2].  I had obtained my undergraduate degree in Btech Computer Science Engineering from [NIT Warangal][3] in 2009.
+Completed MS + PhD from IIIT Hyderabad. .I had obtained my undergraduate degree in Btech Computer Science Engineering from [NIT Warangal][3] in 2009.
 
 
 
@@ -18,7 +18,6 @@ My PhD research deals with machine-understanding of document images. Specificall
 - [May 2023] -   Received [CVPR 2023 , outstading reviewer award][18]
 - [April 2023] - ICDAR 2023 Challenge on Road text detection , tracking and recognition comes to an end. Results are public now
 - [April 2023] - George's  work  on VQA for driving videos accepted at ICDAR 2023
-- [April 2023] - Joined Wadhwani AI as a Machine Learning scientist
 - [Jan 2023] We are organizing two challenges  in ICDAR 2023
     - ICDAR 2023 Competition on RoadText Video Text Detection, Tracking and Recognition
     - ICDAR 2023 Competition on Text-based Video Question Answering on News Videos
