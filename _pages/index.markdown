@@ -6,11 +6,12 @@ sitemap: false
 permalink: /index.html
 author_profile: true
 ---
-Completed MS + PhD from IIIT Hyderabad. .I had obtained my undergraduate degree in Btech Computer Science Engineering from [NIT Warangal][3] in 2009.
+I am a  ML scientist at Wadhwani AI, where I look into the application of computer vision and document image analysis to problems in public health space.
+I have Completed MS + PhD from IIIT Hyderabad. I had obtained my undergraduate degree in Btech Computer Science Engineering from [NIT Warangal][3].
 
 
 
-My PhD research deals with machine-understanding of document images. Specifically, I look into the problems of [OCR in Indian languages][5],  [Scene text understanding][6] and [Document Visual Question Answering (DocVQA)][8] 
+My PhD  thesis  deals with machine-understanding of document images. Specifically, I worked on problems such as  [OCR in Indian languages][5],  [Scene text understanding][6] and [Document Visual Question Answering (DocVQA)][8] 
 
 
 ### <span style="color:red">News /Updates </span>

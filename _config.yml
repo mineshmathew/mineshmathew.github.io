@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Minesh Mathew"
 title_separator          : "-"
 name                     : "Minesh Mathew\nമിനേഷ് മാത്യു "
-description              : "Computer Vision Researcher"
+description              : "ML/CV Researcher"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -79,9 +79,9 @@ analytics:
 author:
   name             : "Minesh Mathew"
   avatar           : "bio-photo.jpg"
-  bio              : "Computer Vision Researcher"
-  location         : "Hyderabad,IN"
-  googlemaplocation : https://www.google.co.in/maps/place/IIIT+Hyderabad/@17.4471611,78.3465713,17z/data=!3m1!4b1!4m5!3m4!1s0x3bce0a03f17ff82b:0x9d02e89b98deb496!8m2!3d17.447156!4d78.34876	
+  bio              : "ML/CV Researcher"
+  location         : "Bangalore,IN"
+  googlemaplocation :
   email            : minesh.mathew@gmail.com
   uri              :
   bitbucket        :
@@ -110,7 +110,7 @@ author:
   xing             :
   youtube          :
   goodreads     : https://www.goodreads.com/user/show/32293808-minesh-mathew
-  institution : https://www.iiit.ac.in/	
+  institution : https://wadhwaniai.org
   orcid : https://orcid.org/0000-0002-0809-2590
 #  publons : https://publons.com/researcher/3174621/minesh-mathew/
   publons: https://www.webofscience.com/wos/author/record/3547881
